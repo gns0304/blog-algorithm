@@ -1,0 +1,1 @@
+[print(chr(ord(c) + ord('X') - ord('A')) if ord(c) <= ord('C') else chr(ord(c) - 3), end="") for c in input()]
