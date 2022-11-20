@@ -2,7 +2,7 @@
 
 > Learn about algorithms and problem-solving techniques and prepare for coding tests.
 
-##Structure
+## Structure
 
 - [Subject]/[Source]/[Problem Number] [Problem Name]/\*.\*
 
