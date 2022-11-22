@@ -17,3 +17,4 @@
 | Week 2 | 2022.11.21. |Implementation|BOJ| [[10872] 팩토리얼](https://www.acmicpc.net/problem/10872)   |
 | Week 2 | 2022.11.21. |Implementation|BOJ| [[1037] 약수](https://www.acmicpc.net/problem/1037)       |
 | Week 2 | 2022.11.22. |Implementation|BOJ| [[2576] 홀수](https://www.acmicpc.net/problem/2576)       |
+| Week 2 | 2022.11.22. |Implementation|BOJ| [[1546] 평균](https://www.acmicpc.net/problem/1546)       |
