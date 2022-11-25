@@ -21,4 +21,5 @@
 | Week 2 | 2022.11.22. | Implementation |BOJ| [[10818] 최소, 최대](https://www.acmicpc.net/problem/10818)       |
 | Week 2 | 2022.11.23. | Implementation |BOJ| [[10809] 알파벳 찾기](https://www.acmicpc.net/problem/10809)       |
 | Week 2 | 2022.11.23. | Implementation |BOJ| [[3460] Binary numbers](https://www.acmicpc.net/problem/3460) |
-| Week 2 | 2022.11.23. | Data Structure |BOJ| [[10828] 스택](https://www.acmicpc.net/problem/10828)       |
+| Week 2 | 2022.11.23. | Data Structure |BOJ| [[10828] 스택](https://www.acmicpc.net/problem/10828)           |
+| Week 2 | 2022.11.25. | Data Structure |BOJ| [[10845] 큐](https://www.acmicpc.net/problem/10845)            |
